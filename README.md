@@ -67,7 +67,7 @@ The AI uses the **Minimax algorithm**, which explores all possible game outcomes
 Tictactoe/
 │
 ├── runner.py         # Initializes Pygame, handles game loop and UI
-├── tictactoe.py      # Board state management and AI logic
+├── tictactoe.py      # Board state management and MinMax logic
 └── README.md       # Project documentation
 ```
 
